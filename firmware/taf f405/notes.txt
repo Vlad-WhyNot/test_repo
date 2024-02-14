@@ -1,0 +1,13 @@
+frame:  mark 4, 7in
+
+esc:    c-h-15 bheli_s (updgated to blujay)
+motors: taf 2806.5, 1300kv
+prop:   
+
+fc:     DAKEFPVF405
+tele:   
+
+ant:    
+vtx:    akk dominator 2w
+cam:    mini 19 (noname)
+

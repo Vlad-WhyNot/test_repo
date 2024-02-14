@@ -1,0 +1,18 @@
+taf 7in drone
+
+frame:  mark 4 7in
+esc:    speedybee 50a bls, j-h-50 bheli_s (updgated to blujay)
+motors: taf 2806.5, 1300 kv
+prop:   hq prop 7*3.5*3
+fc:     speedybee f405 v3 (target: SPEEDYBEEF405V3)
+tele:   TBS Nano RX (SE)
+ant:    
+vtx:    akk fx2-dominator 2w
+cam:    RTS 1/1.8 1800TVL Mini 2.1mm
+
+
+assebly notes:
+
+uart1: vtx (smart audio)
+uart6: cross
+
